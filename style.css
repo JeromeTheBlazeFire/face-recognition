@@ -1,0 +1,27 @@
+body 
+{
+    background-color: rgb(66, 136, 49);
+}
+
+.name_of_object
+{
+    color:rgb(0, 0, 0);
+    font-family: 'Are You Serious', cursive;
+    font-size: large;
+}
+#result_object_name
+{
+    color: rgb(255, 0, 0);
+    font-family: 'Are You Serious', cursive;
+}
+#result_object_accuracy
+{
+    color: rgb(255, 0, 0);
+    font-family: 'Are You Serious', cursive;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
